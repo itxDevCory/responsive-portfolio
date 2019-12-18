@@ -87,12 +87,12 @@ div.img-div > img {
   height: 100%;
 }
 /* Responsive columns - one column layout (vertical) on small screens */
-@media screen and (max-width: 600px) {  
+@media screen and (max-width: 600px) {
   div.wrapper {
     width: 100%;
   }
   .column {
-    
+
     width: 70%;
     display: block;
     margin: 0 auto;
@@ -113,5 +113,5 @@ div.img-div > img {
 
   }
 
-  
+
 }
